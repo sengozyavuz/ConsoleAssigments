@@ -1,0 +1,13 @@
+C:\Users\Root\Desktop\Assigment1\PascalCase\bin\Debug\netcoreapp3.1\PascalCase.exe
+C:\Users\Root\Desktop\Assigment1\PascalCase\bin\Debug\netcoreapp3.1\PascalCase.deps.json
+C:\Users\Root\Desktop\Assigment1\PascalCase\bin\Debug\netcoreapp3.1\PascalCase.runtimeconfig.json
+C:\Users\Root\Desktop\Assigment1\PascalCase\bin\Debug\netcoreapp3.1\PascalCase.runtimeconfig.dev.json
+C:\Users\Root\Desktop\Assigment1\PascalCase\bin\Debug\netcoreapp3.1\PascalCase.dll
+C:\Users\Root\Desktop\Assigment1\PascalCase\bin\Debug\netcoreapp3.1\PascalCase.pdb
+C:\Users\Root\Desktop\Assigment1\PascalCase\obj\Debug\netcoreapp3.1\PascalCase.csprojAssemblyReference.cache
+C:\Users\Root\Desktop\Assigment1\PascalCase\obj\Debug\netcoreapp3.1\PascalCase.AssemblyInfoInputs.cache
+C:\Users\Root\Desktop\Assigment1\PascalCase\obj\Debug\netcoreapp3.1\PascalCase.AssemblyInfo.cs
+C:\Users\Root\Desktop\Assigment1\PascalCase\obj\Debug\netcoreapp3.1\PascalCase.csproj.CoreCompileInputs.cache
+C:\Users\Root\Desktop\Assigment1\PascalCase\obj\Debug\netcoreapp3.1\PascalCase.dll
+C:\Users\Root\Desktop\Assigment1\PascalCase\obj\Debug\netcoreapp3.1\PascalCase.pdb
+C:\Users\Root\Desktop\Assigment1\PascalCase\obj\Debug\netcoreapp3.1\PascalCase.genruntimeconfig.cache
